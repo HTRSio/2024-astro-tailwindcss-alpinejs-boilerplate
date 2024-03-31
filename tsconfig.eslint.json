@@ -6,6 +6,8 @@
     "src/**/*.tsx",
     "src/**/*.astro",
     "tailwind.config.mjs",
-    "astro.config.mjs"
+    "astro.config.mjs",
+    "lint-staged.config.mjs",
+    "commitlint.config.mjs"
   ]
 }
