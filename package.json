@@ -33,6 +33,7 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.5.10",
+    "@astrojs/ts-plugin": "^1.6.1",
     "@commitlint/cli": "^19.2.1",
     "@commitlint/config-conventional": "^19.1.0",
     "@types/alpinejs": "^3.13.10",
